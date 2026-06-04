@@ -34,6 +34,17 @@ What should be documented instead?
 
 ---
 
+# Impact
+
+- [ ] Minor typo
+- [ ] Incorrect information
+- [ ] Broken link
+- [ ] Missing content
+- [ ] Architecture inconsistency
+- [ ] Workflow inconsistency
+
+---
+
 # Additional Context
 
 Add screenshots or references if applicable.
