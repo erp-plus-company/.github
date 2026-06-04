@@ -24,6 +24,22 @@ Describe the suggested content.
 
 ---
 
+# Documentation Area
+
+- [ ] Organization
+- [ ] System
+- [ ] Architecture
+- [ ] Engines
+- [ ] Development
+- [ ] Product & Delivery
+- [ ] Operations
+- [ ] Security
+- [ ] Decisions
+- [ ] Releases
+- [ ] Getting Started
+
+---
+
 # Additional Context
 
-Add examples, references, or screenshots.
+Add examples, references, screenshots, diagrams, or external resources.

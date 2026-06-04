@@ -11,6 +11,30 @@ ERP Plus follows:
 - Documentation First
 - Security by Default
 
+## Contribution Models
+
+ERP Plus supports two contributor types.
+
+### Internal Contributors
+
+Internal contributors use:
+
+- GitHub
+- Taiga
+
+Work is tracked through User Stories and Tasks managed in Taiga.
+
+### External Contributors
+
+External contributors use:
+
+- GitHub Issues
+- Pull Requests
+
+External contributors do not require access to Taiga.
+
+Official planning remains managed internally through Taiga.
+
 ## Development Workflow
 
 Issue
