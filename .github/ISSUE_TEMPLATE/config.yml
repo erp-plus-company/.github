@@ -3,7 +3,7 @@ blank_issues_enabled: false
 contact_links:
   - name: ERP Plus Documentation
     url: https://github.com/erp-plus-company/erp-plus-docs
-    about: Architecture, governance, guides and platform documentation.
+    about: Architecture, governance, workflows, ADRs, and platform documentation.
 
   - name: ERP Plus Application
     url: https://github.com/erp-plus-company/erp_plus

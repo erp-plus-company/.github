@@ -12,9 +12,22 @@ Describe the requested feature.
 
 ---
 
-# Problem
+# Business Problem
 
 What problem does this solve?
+
+---
+
+# Business Value
+
+Describe the expected value.
+
+Examples:
+
+- Revenue impact
+- Productivity improvement
+- Better user experience
+- Operational efficiency
 
 ---
 
@@ -30,6 +43,38 @@ Describe alternatives evaluated.
 
 ---
 
+# Target Component
+
+- [ ] Engine
+- [ ] Shared Library
+- [ ] Infrastructure
+- [ ] Automation
+- [ ] Documentation
+- [ ] Other
+
+---
+
+# Target Engine
+
+- [ ] erp_core
+- [ ] erp_accounts
+- [ ] erp_users
+- [ ] erp_workers
+- [ ] erp_inventory
+- [ ] Other
+- [ ] Not Applicable
+
+---
+
+# Priority Suggestion
+
+- [ ] Critical
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+---
+
 # Additional Context
 
-Add any additional context here.
+Add mockups, references, screenshots, examples, or business context.
