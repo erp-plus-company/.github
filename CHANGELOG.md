@@ -82,5 +82,6 @@ ERP Plus Organization Standards v1.0.0 establishes the first stable governance b
 
 ---
 
-[Unreleased]: https://github.com/erp-plus-company/.github/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/erp-plus-company/.github/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/erp-plus-company/.github/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/erp-plus-company/.github/releases/tag/v1.0.0
