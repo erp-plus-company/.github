@@ -22,6 +22,39 @@ The format is inspired by Keep a Changelog and follows Semantic Versioning princ
 
 ---
 
+## [1.1.0] - 2026-06-04
+
+### Added
+
+- GitHub Organization Profile (`profile/README.md`)
+- Public onboarding entry point for ERP Plus
+- Repository discovery section
+- Architecture overview for visitors
+- Contribution model overview for internal and community contributors
+- Links to core platform repositories
+- Links to official ERP Plus documentation
+
+### Changed
+
+- Improved organization repository structure
+- Extended governance repository scope to include public organization presentation
+
+## Release Notes
+
+ERP Plus Organization Standards v1.1.0 introduces the official GitHub Organization Profile.
+
+This release improves onboarding and discoverability by providing a centralized entry point for:
+
+- ERP Plus Application
+- ERP Plus Documentation
+- Organization Standards
+- Contribution workflows
+- Architecture overview
+
+The organization page now acts as the public landing page for the ERP Plus ecosystem.
+
+---
+
 ## [1.0.0] - 2026-06-04
 
 ### Added
